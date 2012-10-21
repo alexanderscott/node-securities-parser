@@ -1,0 +1,13 @@
+{
+  "name": "FA-securities-challenge",
+  "version": "0.1.0",
+  "author": "Alex Ehrnschwender",
+  "description": "Securities challenge for FutureAdvisor application",
+  "dependencies": {
+    "async": "~0.1.22"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
