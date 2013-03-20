@@ -1,5 +1,5 @@
-# <FutureAdvisor Software Engineering Team - Programming Problem>
- - Solution by Alex Ehrnschwender (alex@crunchdevelopment.com)
+# NODE-SECURITIES-PARSER (programming challenge solution)
+ - Solution by Alex Ehrnschwender (alexanderscott46@gmail.com)
 
 
 ## About
