@@ -14,6 +14,7 @@ Format textfile to JSON with `node parseTxtData.js`.
 Calculate the growth periods and output the period of max return with `node findBursts`.
 
 ## Result
+```
 AAPL : 4202.40% growth from Feb 2004 to Jan 2011
 FDEGX : 483.62% growth from Aug 2009 to Jun 2011
 FDCPX : 392.65% growth from Aug 2009 to Jun 2011
@@ -42,3 +43,4 @@ VGSTX : 55.27% growth from Mar 2003 to Nov 2003
 VBINX : 48.35% growth from Mar 2003 to Nov 2003
 VUSTX : 13.66% growth from May 2002 to Nov 2002
 VFITX : 4.40% growth from Oct 2008 to Nov 2008
+```
